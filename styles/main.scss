@@ -1,0 +1,23 @@
+@import './vendor/normalize';
+@import './partials/typography';
+@import './partials/mixins';
+@import './partials/colors';
+
+.white{
+background-color: white;
+
+}
+
+
+.gray{
+background-color: gray;
+color: white;
+
+}
+
+
+.teal{
+background-color: teal;
+color: white;
+
+}
